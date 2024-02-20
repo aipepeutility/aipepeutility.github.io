@@ -997,7 +997,7 @@ address.footer-contact-link { max-width: 30ch; }
    * HEADER
    */
 
-  .header { padding-block: 3px; }
+  .header { padding-block: 5px; }
 
   .header.active { top: -60px; }
 
@@ -1126,7 +1126,7 @@ address.footer-contact-link { max-width: 30ch; }
    * HEADER
    */
 
-  .header.active { top: -54px; }
+  .header.active { top: -64px; }
 
   .navbar-link { font-size: unset; }
 
